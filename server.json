@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/usgs-mineral-commodities",
   "title": "Usgs Mineral Commodities",
   "description": "USGS Mineral Commodity Summaries (MCS) — U.S. production, imports, exports, consumption, price…",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/usgs-mineral-commodities",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-usgs-mineral-commodities",

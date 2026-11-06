@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-usgs-mineral-commodities",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "USGS Mineral Commodity Summaries (MCS) — U.S. production, imports, exports, consumption, price, employment and net import reliance for 85 nonfuel mineral commodities, plus world mine/plant production and reserves by country for 75 of them. Fleet #2722.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "usgs-mineral-commodities",
     "gatewaySlug": "usgs-mineral-commodities",
-    "sourceHash": "v1-554510611f17dec5309ea04244f8b32cfc2f9cab2a91d44bbec3c0a558962906",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-ea6000067f8fff34b5b0f8dbe1c24b4dcee55445a1ca3f380fa3665e3f828e1f",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
